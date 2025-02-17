@@ -1,2 +1,2 @@
-module=./Module
-req=./requirements.txt
+module='./Module'
+req='./requirements.txt'
